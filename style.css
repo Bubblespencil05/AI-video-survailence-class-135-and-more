@@ -1,0 +1,16 @@
+#a {
+    margin-top: 0px;
+    width: 100%;
+}
+
+body {
+    background-size: cover;
+}
+
+#footer {
+    background-color: grey;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+}
